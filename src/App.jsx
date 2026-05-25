@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to Sebin's countdown - v5</h1>
+      <h1>Welcome to Varun's countdown - v5</h1>
       <div className="card">
         <h1 style={{ fontSize: "3rem" }}>{getEmoji()}</h1>
         <h2>5-Minute Countdown</h2>
